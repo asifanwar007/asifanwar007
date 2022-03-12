@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on SpringBoot.
+- 👯 I’m looking to collaborate on Machine Learning projects.
+- 📫 How to reach me: asifanwar1947@gmail.com
 
 <!--
 **asifanwar007/asifanwar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
