@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on SpringBoot.
 - 👯 I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me: asifanwar1947@gmail.com
 
